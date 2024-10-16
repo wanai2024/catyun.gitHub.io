@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://catyun.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://catyun.github.io/</loc>
+</url>
+<url>
+<loc>https://catyun.github.io/appleid-mei-guo-zhang-hao-kuai-su-zhu-ce.html</loc>
+<lastmod>2024-10-16T10:13:33+08:00</lastmod>
+<image:image>
+<image:loc>https://catyun.github.io/media/posts/1/AppleID-_2.webp</image:loc>
+<image:title><![CDATA[AppleID ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://catyun.github.io/page.html</loc>
+<lastmod>2024-10-16T10:31:06+08:00</lastmod>
+</url>
+<url>
+<loc>https://catyun.github.io/surfboard-for-android-an-zhuo-shou-ji-pei-zhi-wang-luo.html</loc>
+<lastmod>2024-10-16T10:13:26+08:00</lastmod>
+<image:image>
+<image:loc>https://catyun.github.io/media/posts/2/Surfboard_3.webp</image:loc>
+<image:title><![CDATA[Surfboard]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://catyun.github.io/v2rayng-for-android-an-zhuo-shou-ji-pei-zhi-wang-luo.html</loc>
+<lastmod>2024-10-16T10:13:19+08:00</lastmod>
+<image:image>
+<image:loc>https://catyun.github.io/media/posts/3/V2rayNG-For-Android_1.webp</image:loc>
+<image:title><![CDATA[V2rayNG for Android]]></image:title>
+</image:image>
+</url>
+</urlset>

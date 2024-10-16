@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://catyun.github.io/sitemap.xml
